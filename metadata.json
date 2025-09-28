@@ -1,0 +1,5 @@
+{
+  "name": "FinanSage AI",
+  "description": "A personal finance management application that uses generative AI to provide personalized advice on budgeting, investments, and savings goals. Track your financial health and receive intelligent insights to make smarter financial decisions.",
+  "requestFramePermissions": []
+}
